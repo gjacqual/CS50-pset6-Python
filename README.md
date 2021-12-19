@@ -1,4 +1,4 @@
-# CS50-pset6-Python
+# CS50-pset6-dna
 CS50 pset6
 
 IMPORTANT: Do not copy this code to submit your project, as this violates the cs50's academic honesty: https://cs50.harvard.edu/x/2021/honesty/
